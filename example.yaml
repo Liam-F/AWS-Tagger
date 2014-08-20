@@ -1,0 +1,5 @@
+Keys:
+  Secret_Key: ************************************
+  Access_Key: *********************
+Platform: S3
+TagFile: S3_Dev1.txt
